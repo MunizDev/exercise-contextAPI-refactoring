@@ -1,7 +1,5 @@
 // src/Cars.jsx
 
-import { render } from '@testing-library/react';
-import PropTypes from 'prop-types';
 import React, { Component } from 'react';
 import carBlue from './images/carBlue.jpeg';
 import carRed from './images/carRed.jpeg';
@@ -60,11 +58,5 @@ class Cars extends Component {
   }
 }
 
-Cars.propTypes = {
-  moveCar: PropTypes.func.isRequired,
-  blueCar: PropTypes.bool.isRequired,
-  redCar: PropTypes.bool.isRequired,
-  yellowCar: PropTypes.bool.isRequired,
-};
 
 export default Cars;

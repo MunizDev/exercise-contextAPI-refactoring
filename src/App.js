@@ -26,8 +26,7 @@ class App extends Component {
       signalColor: color,
     }));
   }
-    };
-  }
+
 
   moveCar(car, side) {
     this.setState((prevState) => ({
