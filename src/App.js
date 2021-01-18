@@ -1,3 +1,4 @@
+
 import React, { Component } from 'react';
 import './App.css';
 import Cars from './Cars';
@@ -24,6 +25,8 @@ class App extends Component {
       ...prevState,
       signalColor: color,
     }));
+  }
+    };
   }
 
   moveCar(car, side) {
