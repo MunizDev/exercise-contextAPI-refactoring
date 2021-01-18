@@ -77,3 +77,9 @@ Refatore o exercício sobre o Reddit que está na branch `exercise-three` deste 
 Refatore o exercício sobre o Reddit que está na branch `exercise-three` do repositório [exercise-contextAPI-refactoring](https://github.com/tryber/exercise-contextAPI-refactoring/tree/master). Mofique a aplicação para utilizar Context API para gerenciar o estado no lugar de Redux.
 
 ---
+
+#### Exercício 3 
+
+Refatore o exercício sobre o Reddit que está na branch `exercise-three` do repositório [exercise-contextAPI-refactoring](https://github.com/tryber/exercise-contextAPI-refactoring/tree/master). Mofique a aplicação para utilizar Context API para gerenciar o estado no lugar de Redux.
+
+---
